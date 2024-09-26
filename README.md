@@ -15,3 +15,13 @@
 - Go to the SSA Baby Names Page.
 - Click on 'National data' and download the ZIP file containing the dataset.
 - Place the downloaded names.zip file in the project directory.
+# Analysis Steps
+# 1. Data Extraction
+- The dataset is extracted from the ZIP file using the zipfile and io libraries.
+- All files containing baby name data are read into a single pandas DataFrame.
+# 2. Data Visualization
+- The number of male and female babies born each year is visualized using a bar plot.
+- The count of male and female babies is displayed on top of each bar for better understanding.
+# 3. Popular Baby Names
+- The dataset is analyzed to identify the most popular baby names over the years.
+- The top 10 most popular names are visualized using a bar plot.
