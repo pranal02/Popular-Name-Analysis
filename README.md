@@ -5,7 +5,7 @@
 - Visualize the number of male and female babies born in a particular year.
 - Identify and analyze the most popular baby names over the years.
 - Dataset
-- The dataset used in this project includes data from the SSA on baby names, with details such as:
+# The dataset used in this project includes data from the SSA on baby names, with details such as:
 
 - Name: Baby's name
 - Gender: Gender of the baby (Male/Female)
